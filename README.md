@@ -31,7 +31,7 @@
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://www.flaticon.com/free-icon/java_226777" 
 />
 <img 
     align="left" 
