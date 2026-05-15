@@ -53,7 +53,7 @@
     align="left" 
     alt="Firebird" 
     title="Firebird"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="firebird.png" 
 />
