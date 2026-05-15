@@ -31,7 +31,7 @@
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.flaticon.com/free-icon/java_226777" 
+    src="java.png" 
 />
 <img 
     align="left" 
